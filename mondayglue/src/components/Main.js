@@ -1,13 +1,16 @@
 import React, { Component } from 'react'
 
-import selfpic from "./components/photos/selfpic.jpg";
+import selfpic from "/photos/selfpic.jpg";
 
-export default class Main extends Component {
+export default 
+
+class Main extends Component {
   render() {
 
     return (
-      <img src = {selfpic} alt = "Picture of Self"/>
-
+      <div>
+      <img src = {selfpic}/>
+      </div>
         )
   }
 }
