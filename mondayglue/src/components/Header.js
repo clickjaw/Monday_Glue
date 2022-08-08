@@ -10,7 +10,7 @@ class Header extends Component {
         <nav>
         <a href = "#">Home</a>
         <a href = "#">About</a>
-        <a href = "#">Projects</a>
+        <a href = "https://github.com/clickjaw?tab=repositories">Projects</a>
         </nav>
         </header>
 

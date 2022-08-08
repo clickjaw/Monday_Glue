@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  display:grid;
+  justify-content: center;
+  font-family: Arial;
+  line-height: 150%;
+}
+
+a{
+  color: rgb(175, 175, 119);
+  display: grid;
+  justify-content: right;
+}
+a:hover{
+  color: white;
+}
+.belowImage{
+  color: yellow;
+}
+
+img{
+  border: 2px rgb(175, 175, 119) solid;
+  border-radius: 5px;
+}
+footer{
+  display: grid;
+  justify-content: center;
+}
