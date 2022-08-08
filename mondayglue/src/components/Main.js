@@ -16,7 +16,7 @@ class Main extends Component {
       I'm currently working on React in Code301.
       </p>
       <p>
-      <a href = "https://github.com/clickjaw">Github</a><br/>
+      <a href = "https://github.com/clickjaw">Github</a>
       
       <a href = "https://www.youtube.com/watch?v=660ZCEhvbnw">Song of the Week</a><br/>
       </p>

@@ -47,23 +47,29 @@ body{
   line-height: 150%;
 }
 
+header{
+  display: inline-grid;
+  justify-content: right;
+  width: 400px;
+}
+
 a{
   color: rgb(175, 175, 119);
-  display: grid;
-  justify-content: right;
+  display:grid;
+  justify-content: space-around;
 }
 a:hover{
   color: white;
 }
-.belowImage{
-  color: yellow;
-}
 
 img{
+  margin-left: 15px;
   border: 2px rgb(175, 175, 119) solid;
   border-radius: 5px;
+  display: grid;
+  justify-content: center;
 }
 footer{
   display: grid;
-  justify-content: center;
+  justify-content: space-around;
 }
