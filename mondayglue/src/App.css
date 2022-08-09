@@ -39,7 +39,8 @@
 
 
 body{
-  background-color: black;
+  background-color: rgb(117, 117, 87);
+  /* background-color: black; */
   color: white;
   font-size: 16px;
   font-weight: bold;
@@ -48,6 +49,14 @@ body{
   font-family: Arial;
   line-height: 150%;
   font-size: 12px;
+}
+
+img{
+  /* margin-left: 15px; */
+  border: 3px white solid;
+  border-radius: 10px;
+  display: grid;
+  justify-content: center;
 }
 
 p{
@@ -151,13 +160,7 @@ a:hover{
   color: white;
 }
 
-img{
-  /* margin-left: 15px; */
-  border: 3px rgb(175, 175, 119) solid;
-  border-radius: 5px;
-  display: grid;
-  justify-content: center;
-}
+
 footer{
   display: grid;
   justify-content: center;
