@@ -11,14 +11,13 @@ class Main extends Component {
       <div>
       <img src = {logo} width = "400" height = "400" alt = "Tyler Morgan"/>
 
-      <p>
+      <p class = "mainBody"><span class = "font-link">
       This is a short bio to fill some space till I write a real one.<br/>  
       I'm currently working on React in Code301.
+      </span>
       </p>
-      <p>
-      <a href = "https://github.com/clickjaw">Github</a>
-      
-      <a href = "https://www.youtube.com/watch?v=660ZCEhvbnw">Song of the Week</a><br/>
+      <p>      
+      <a class = "mainLink" href = "https://www.youtube.com/watch?v=sJ0Du_nJ6Rw">Song of the Week</a><br/>
       </p>
     
       </div>
