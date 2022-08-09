@@ -56,7 +56,7 @@ p{
 
 header{
   display: grid;
-  justify-content: left;
+  justify-content: right;
   position: absolute;
   margin-top: 10px;
   margin-left: 10px;
@@ -85,6 +85,50 @@ a.one{
   font-size: 32px;
 }
 
+.dropdownButton{
+  background:none;
+  border: none;
+  color: rgb(175, 175, 119);
+  display:inline;
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 32px;
+  font-family: "Reenie Beanie", cursive;
+  font-weight: bold;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdownContent {
+  display: none;
+  position: absolute;
+  background: none;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  height: 80px;
+  overflow: scroll;
+
+}
+
+.dropdownContent a {
+  color: rgb(175, 175, 119);
+  padding: 12px 16px;
+  text-decoration: none;
+  background: none;
+  display: block;
+  font-size: 22px;
+
+}
+
+.dropdownContent a:hover {background: none;}
+
+.dropdown:hover .dropdownContent {display: block;}
+
+.dropdown:hover .dropdownButton {background: none;}
 p.mainBody{
   max-width: 400px;
   justify-content: center;
