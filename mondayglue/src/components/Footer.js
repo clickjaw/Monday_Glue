@@ -6,7 +6,7 @@ export default class Footer extends Component {
   render() {
     return (
       <footer>
-      ©Tyler Morgan 8/8/2022<br/>
+      ©Tyler Morgan 8/9/2022<br/>
       <p class = "footerLogo">
       <img class = "footerLogo" src = {jsLogo} width = "40" height = "40"></img>
 
