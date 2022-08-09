@@ -9,7 +9,7 @@ class Main extends Component {
 
     return (
       <div>
-      <img src = {logo} width = "400" height = "400" alt = "Tyler Morgan"/>
+      <img src = {logo} width = "500" height = "500" alt = "Tyler Morgan"/>
 
       <p class = "mainBody"><span class = "font-link">
       This is a short bio to fill some space till I write a real one.<br/>  

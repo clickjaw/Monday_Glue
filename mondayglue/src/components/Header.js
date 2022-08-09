@@ -13,7 +13,7 @@ class Header extends Component {
         <br/>
         <span class = "font-link">
         <a class = "one" href = "#">Home</a>
-        <a class = "one" href = "#">About</a>
+        <a class = "one" href = "https://www.github.com/clickjaw">About</a>
         <div class = "dropdown">
           <button class = "dropdownButton">Projects</button>
             <div class = "dropdownContent">
