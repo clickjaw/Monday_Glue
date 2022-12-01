@@ -17,7 +17,7 @@ class Main extends Component {
       </span>
       </p>
       <p>      
-      <a class = "mainLink" href = "https://www.youtube.com/watch?v=sJ0Du_nJ6Rw">Song of the Week</a><br/>
+      <a class = "mainLink" href = "https://www.youtube.com/watch?v=krMhHL26vTc">Song of the Week</a><br/>
       </p>
     
       </div>
