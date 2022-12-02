@@ -17,8 +17,9 @@ class Header extends Component {
         <div class = "dropdown">
           <button class = "dropdownButton">Projects</button>
             <div class = "dropdownContent">
-              <a class = "one" href = "https://clickjaw.github.io/teamProject/">Team Project</a>
-              <a class = "one" href = "https://clickjaw.github.io/soloproject/">Solo Project</a>
+              <a class = "one" href = "https://vibesocial.netlify.app">Vibe Social</a>
+              <a class = "one" href = "https://clickjaw.github.io/teamProject/">Text Based RPG</a>
+              <a class = "one" href = "https://clickjaw.github.io/soloproject/">Cafe 1912 Website</a>
               <a class = "one" href = "https://clickjaw.github.io/todo/">To Do List</a>
               <a class = "one" href = "https://clickjaw.github.io/TipCalculator-TylerMorgan/">Tip Calculator</a>
               <a class = "one" href = "https://clickjaw.github.io/SimpleCounter/">Simple Counter</a>
