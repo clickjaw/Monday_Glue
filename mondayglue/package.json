@@ -34,5 +34,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "ci": "^2.2.0",
+    "cli": "^1.0.1",
+    "netlify": "^13.1.0"
   }
 }
